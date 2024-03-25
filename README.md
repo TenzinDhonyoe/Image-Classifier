@@ -11,8 +11,8 @@
 <h2>Prerequisites</h2>
     <p>Before running this project, you'll need to have the following installed:</p>
     <ul>
-        <li>Python 3.x</li>
-        <li>TensorFlow 2.x</li>
+        <li>Python</li>
+        <li>TensorFlow</li>
         <li>OpenCV (cv2)</li>
         <li>NumPy</li>
         <li>Matplotlib</li>
